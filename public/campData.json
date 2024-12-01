@@ -1,0 +1,112 @@
+[
+  {
+    "campId": "C001",
+    "campName": "Health Check-Up Camp",
+    "imageURL": "https://i.ibb.co/L966rZM/3053.jpg",
+    "campFees": 20,
+    "DateAndTime": "2024-06-15T09:00:00",
+    "Location": "Community Hall, Main Street",
+    "HealthcareProfessional": "Dr. Alice Johnson",
+    "participantCount": 100,
+    "Description": "Comprehensive health check-up camp covering basic health screenings and consultations."
+  },
+  {
+    "campId": "C002",
+    "campName": "Diabetes Awareness Camp",
+    "imageURL": "https://i.ibb.co/rtH5WWk/14532.jpg",
+    "campFees": 10,
+    "DateAndTime": "2024-06-20T10:00:00",
+    "Location": "City Park, Downtown",
+    "HealthcareProfessional": "Dr. John Smith",
+    "participantCount": 80,
+    "Description": "Educational camp focused on diabetes prevention, management, and lifestyle modifications."
+  },
+  {
+    "campId": "C003",
+    "campName": "Vision Screening Camp",
+    "imageURL": "https://i.ibb.co/jhxsLWF/84799.jpg",
+    "campFees": 15,
+    "DateAndTime": "2024-06-25T08:00:00",
+    "Location": "High School Gymnasium, Elm Street",
+    "HealthcareProfessional": "Dr. Karen Lee",
+    "participantCount": 120,
+    "Description": "Free vision screenings and consultations for all age groups."
+  },
+  {
+    "campId": "C004",
+    "campName": "Dental Check-Up Camp",
+    "imageURL": "https://i.ibb.co/L966rZM/3053.jpg",
+    "campFees": 25,
+    "DateAndTime": "2024-07-01T09:30:00",
+    "Location": "Community Center, Oak Avenue",
+    "HealthcareProfessional": "Dr. Robert Brown",
+    "participantCount": 90,
+    "Description": "Dental health check-up camp providing free dental examinations and oral hygiene advice."
+  },
+  {
+    "campId": "C005",
+    "campName": "Cardiac Care Camp",
+    "imageURL": "https://i.ibb.co/rtH5WWk/14532.jpg",
+    "campFees": 30,
+    "DateAndTime": "2024-07-05T10:00:00",
+    "Location": "Health Clinic, Maple Street",
+    "HealthcareProfessional": "Dr. Emily Davis",
+    "participantCount": 70,
+    "Description": "Cardiac care camp offering heart health screenings and cardiologist consultations."
+  },
+  {
+    "campId": "C006",
+    "campName": "Women's Health Camp",
+    "imageURL": "https://i.ibb.co/jhxsLWF/84799.jpg",
+    "campFees": 20,
+    "DateAndTime": "2024-07-10T11:00:00",
+    "Location": "Women's Center, Pine Street",
+    "HealthcareProfessional": "Dr. Rachel Green",
+    "participantCount": 85,
+    "Description": "Focused on women's health issues including gynecological exams and breast cancer screenings."
+  },
+  {
+    "campId": "C007",
+    "campName": "Pediatric Health Camp",
+    "imageURL": "https://i.ibb.co/L966rZM/3053.jpg",
+    "campFees": 15,
+    "DateAndTime": "2024-07-15T09:00:00",
+    "Location": "Children's Hospital, Willow Road",
+    "HealthcareProfessional": "Dr. Michael Scott",
+    "participantCount": 110,
+    "Description": "Health camp for children providing vaccinations, growth check-ups, and nutritional advice."
+  },
+  {
+    "campId": "C008",
+    "campName": "Mental Health Awareness Camp",
+    "imageURL": "https://i.ibb.co/rtH5WWk/14532.jpg",
+    "campFees": 10,
+    "DateAndTime": "2024-07-20T14:00:00",
+    "Location": "Mental Health Center, Birch Lane",
+    "HealthcareProfessional": "Dr. Laura Martinez",
+    "participantCount": 60,
+    "Description": "Awareness and screening camp for mental health issues including stress, anxiety, and depression."
+  },
+  {
+    "campId": "C009",
+    "campName": "Orthopedic Camp",
+    "imageURL": "https://i.ibb.co/jhxsLWF/84799.jpg",
+    "campFees": 25,
+    "DateAndTime": "2024-07-25T10:00:00",
+    "Location": "Sports Complex, Cedar Drive",
+    "HealthcareProfessional": "Dr. James Wilson",
+    "participantCount": 75,
+    "Description": "Orthopedic camp providing consultations and screenings for bone and joint health."
+  },
+  {
+    "campId": "C010",
+    "campName": "Nutrition and Wellness Camp",
+    "imageURL": "https://i.ibb.co/L966rZM/3053.jpg",
+    "campFees": 15,
+    "DateAndTime": "2024-07-30T09:30:00",
+    "Location": "Wellness Center, Spruce Street",
+    "HealthcareProfessional": "Dr. Lisa Wong",
+    "participantCount": 95,
+    "Description": "Camp focused on nutrition and overall wellness, offering dietary advice and fitness tips."
+  }
+]

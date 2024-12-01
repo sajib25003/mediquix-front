@@ -1,0 +1,15 @@
+@keyframes wave-animation {
+    0% {
+      background-position-x: 0;
+    }
+    100% {
+      background-position-x: 100%;
+    }
+  }
+
+  .wave-container {
+    background: linear-gradient(to right, black, gray); 
+    background-size: 200% 100%;
+    animation: wave-animation 3s infinite alternate; 
+    opacity: 90%;
+  }
